@@ -1,3 +1,6 @@
+/*
+Simple express aplication for deploying to target server, ganymede.
+*/
 var express = require('express')
 var app = express()
 
